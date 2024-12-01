@@ -1,7 +1,7 @@
 import photo from '../img/medium-shot-man-wearing-vr-glasses.jpg';
 
 const Welcome = () => {
-    const id= "welcome";
+    const id= "welcome`";
     return (
         <div id={id} className="h-[90vh] w-screen relative z-0 mb-16">
             {/* Imagen de fondo */}
