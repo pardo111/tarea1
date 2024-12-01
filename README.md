@@ -12,7 +12,7 @@
     observaciones:
     me complique mas de lo que debia
     hay dos ramas main y master, por un error haciendo pull request
-
+    tengo la sospecha que no era a creatividad propia por algun motivo, no pude estar al pendiente del 100% de las clases esta semana
 ##
     autor: RICARDO PAVEL PRESENTACION CASTRO
-    
+
